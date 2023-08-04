@@ -11,12 +11,12 @@ function About () {
             <div className="skills text-4xl mt-80 font-medium bg-white rounded">
                 <h2 className="text-3xl text-center my-10 px-20">PLACEHOLDER</h2>
                 <ul className="md:flex md:items-center md:justify-center">
-                    <li className="mx-5"><img className="my-5 mx-5" src="/imgs/HTML-icon.png" alt="HTML"/></li>
-                    <li className="mx-5"><img className="my-5 mx-5" src="/imgs/CSS-icon.png" alt="CSS"/></li>
-                    <li className="mx-5"><img className="my-5 mx-5" src="/imgs/js-icon.png" alt="javascript"/></li>
-                    <li className="mx-5"><img className="my-5 mx-5" src="/imgs/node-js.png" alt="Node"/></li>
-                    <li className="mx-5"><img className="my-5 mx-5" src="/imgs/SQL-icon.png" alt="SQL"/></li>
-                    <li className="mx-5"><img className="my-5 mx-5" src="/imgs/React-icon.png" alt="react"/></li>
+                    <li className="mx-5"><img className="my-5 mx-5" src="./imgs/HTML-icon.png" alt="HTML"/></li>
+                    <li className="mx-5"><img className="my-5 mx-5" src="./imgs/CSS-icon.png" alt="CSS"/></li>
+                    <li className="mx-5"><img className="my-5 mx-5" src="./imgs/js-icon.png" alt="javascript"/></li>
+                    <li className="mx-5"><img className="my-5 mx-5" src="./imgs/node-js.png" alt="Node"/></li>
+                    <li className="mx-5"><img className="my-5 mx-5" src="./imgs/SQL-icon.png" alt="SQL"/></li>
+                    <li className="mx-5"><img className="my-5 mx-5" src="./imgs/React-icon.png" alt="react"/></li>
                 </ul>
             </div>
         </section>
