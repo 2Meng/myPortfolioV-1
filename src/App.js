@@ -4,9 +4,7 @@ import "./styles/reset.css";
 
 function App() {
   return (
-    <BrowserRouter basename="/myPortfolioV-1">
-      <Homepage/>
-    </BrowserRouter>
+    <Homepage/>
   );
 }
 
