@@ -2,7 +2,7 @@ import React from "react";
 
 function Projects() {
   return (
-    <section className="Projects-section overflow-hidden">
+    <section className="Projects-section overflow-x-hidden">
       <div
         className="project-one m-20 md:flex md:items-center
             md:justify-between"
@@ -76,10 +76,7 @@ function Projects() {
         ></img>
       </div>
 
-      <div
-        className="project-three m-20 md:flex md:items-center
-            md:justify-between"
-      >
+      <div className="project-three m-20 md:flex md:items-center md:justify-between ">
         <div className="md:flex-col mx-20">
           <h2 className="text-4xl my-10">Dreamscape</h2>
           <p className="max-w-screen-md">
@@ -110,7 +107,7 @@ function Projects() {
         <img
           className="mx-20"
           src="./imgs/dreamscape.png"
-          alt="flower-tetris-img"
+          alt="dreamscape img"
         ></img>
       </div>
     </section>
